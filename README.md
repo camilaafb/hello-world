@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm Camila Abrantes da Fonseca Batista, a passionate Data Engineer with a strong background in Physics Engineering and Data Science & Analytics. Currently based in São Paulo, Brazil, I have experience working with prominent companies like IBM, Raízen, and Jüssi, where I've contributed to various data engineering projects.
+Hi there! I'm Camila Abrantes, a passionate Data Engineer with a strong background in Physics Engineering and Data Science & Analytics. Currently based in São Paulo, Brazil, I have experience working with prominent companies like IBM, Raízen, and Jüssi, where I've contributed to various data engineering projects.
 
 ### Professional Objective
 
@@ -11,7 +11,7 @@ I am committed to leveraging my expertise in data engineering to democratize acc
 ### Professional Experience
 
 - **Data Specialist at IBM (October 2023 - Present)**
-  - Providing technical consultancy in data engineering for the global cards project in collaboration with Banco Santander.
+  - Providing technical consultancy in data engineering for the global cards project in collaboration with major players in the banking industry.
   - Managing data ingestion and preparation pipelines, and performing reverse engineering to migrate legacy processes to modern solutions.
 
 - **Data Engineer at Raízen (August 2021 - October 2023)**
